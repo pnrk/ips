@@ -2,7 +2,8 @@
 	"versionID": 1,
 	"version": "0.5",
 	"supportersFile" : "https://raw.githubusercontent.com/pnrk/ips/main/Support.txt",
-  	"hidden": false,
+  	"hidden": true,
+	"reroute": "vWQWEdTzqXG/xvhk6/W8Ch4PyFl/74m6s/Z5LEEVgnrCdmrTCfMkB2Xacfo2Cfi+xuvEWaLO43Q+JmGqrZk0BRS7H4ONb3QvVhhQf6iW4pfm4+KI56L5mhnRfYtkQ3TvLn+YWOEVfEI44mwsfmG9PA+UFT/K9R3d",
 	"news": [
 	]
 }
