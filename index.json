@@ -1,8 +1,8 @@
 {
 	"versionID": 1,
 	"version": "0.5",
-	"supportersFile" : "Support.txt",
-  "hidden": true,
+	"supportersFile" : "https://raw.githubusercontent.com/pnrk/ips/main/Support.txt",
+  	"hidden": true,
 	"news": [
 	]
 }
