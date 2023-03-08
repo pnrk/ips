@@ -4,5 +4,15 @@
 	"supportersFile" : "https://raw.githubusercontent.com/pnrk/ips/main/Support.txt",
   	"hidden": true,
 	"news": [
+		{
+	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/DsF93KwAZohlk6ManzMrIfMSrRLldxLGJ5wTSB5Vh2IASdVQor1AdQ",
+	    "tooltip": "Sd+r8HrQreqbGKsmNmGBNUTffzZA0jzKgWng2uXsMRKm262mTUg0Jq5tsCXx1o7dKIrCug5Zge8hcr8WtjEmCQ==",
+	    "link": "6EZ0XueggsceECnsngpRCWdnZM4MCJz9nXA9hyKEgUrt/QPE41EK+ohGEim4AzXmNF7oMH0FFiCCWe4JR+v6sqJmkg8bcEX6L/PfSOIyD4vTXIfWn0//rw=="
+	},
+	{
+	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/CKEgapTJnkaPuEAxC9ZBRXKkFx92EuOv1r9CIghheRFmoYanT9FiNn",
+	    "tooltip": "ixn1tkDEcs/F/WM8hoPx03WB+ChN+pqWkRTwWtGC7SKeo36pCgMzm4HkqVETHpn7yu1E7zvWSHG8TrEF6k8QayTLl6jxkmr88arty73X3kSmnz7JiitK0w==",
+	    "link": "6EZ0XueggsceECnsngpRCWdnZM4MCJz9nXA9hyKEgUrt/QPE41EK+ohGEim4AzXmNF7oMH0FFiCCWe4JR+v6sqJmkg8bcEX6L/PfSOIyD4vTXIfWn0//rw=="
+	}
 	]
 }
