@@ -1,5 +1,5 @@
 {
-	"versionID": 10,
+	"versionID": 11,
 	"version": "0.8",
 	"supportersFile" : "https://raw.githubusercontent.com/pnrk/ips/main/Support.txt",
   	"hidden": true,
@@ -10,17 +10,12 @@
 	    "link": "6EZ0XueggsceECnsngpRCWdnZM4MCJz9nXA9hyKEgUrt/QPE41EK+ohGEim4AzXmNF7oMH0FFiCCWe4JR+v6sqJmkg8bcEX6L/PfSOIyD4vTXIfWn0//rw=="
 	},
 	{
-	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/DsF93KwAZohlk6ManzMrIf6Ye8Bbw/Shda666xeF7PGOymIYY8O8j3",
+	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/ATiLFJKcFhL699OgObokL0BaXlPrAfPmCJ+AwXy9o40zJWyf1HmDJe",
 	    "tooltip": "qIjcn5Bx6sufZGLd2aOuvF4QW5KBS7tOUWfcEs/+Th/NM7wd2ofw7bSvkRs9AtUh3KDvd87YO4NSBTPnAgg8SQ==",
 	    "link": "6EZ0XueggsceECnsngpRCWdnZM4MCJz9nXA9hyKEgUrt/QPE41EK+ohGEim4AzXmNF7oMH0FFiCCWe4JR+v6sqJmkg8bcEX6L/PfSOIyD4vTXIfWn0//rw=="
 	},
 	{
-	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/BVxf78M726b15WneKfvO/XZ3D2V45hO+4QYgJOHWU+hN+dFXiTCSDl",
-	    "tooltip": "qIjcn5Bx6sufZGLd2aOuvF4QW5KBS7tOUWfcEs/+Th/NM7wd2ofw7bSvkRs9AtUh3KDvd87YO4NSBTPnAgg8SQ==",
-	    "link": "6EZ0XueggsceECnsngpRCWdnZM4MCJz9nXA9hyKEgUrt/QPE41EK+ohGEim4AzXmNF7oMH0FFiCCWe4JR+v6sqJmkg8bcEX6L/PfSOIyD4vTXIfWn0//rw=="
-	},
-	{
-	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/AVOLL6TfFxpsDAMV6CdMxGZwizOvegjmaoeJKM3VxzHAJynm7f+K9R",
+	    "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/BVxf78M726b15WneKfvO/X1GSNNe2GQ7DOMhNXnLJQ66Pm8uSKP+KS",
 	    "tooltip": "ixn1tkDEcs/F/WM8hoPx03WB+ChN+pqWkRTwWtGC7SKeo36pCgMzm4HkqVETHpn7yu1E7zvWSHG8TrEF6k8QayTLl6jxkmr88arty73X3kSmnz7JiitK0w==",
 	    "link": "6EZ0XueggsceECnsngpRCWdnZM4MCJz9nXA9hyKEgUrt/QPE41EK+ohGEim4AzXmNF7oMH0FFiCCWe4JR+v6sqJmkg8bcEX6L/PfSOIyD4vTXIfWn0//rw=="
 	}
