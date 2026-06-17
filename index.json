@@ -1,8 +1,8 @@
 {
-    "versionID": 18,
+    "versionID": 19,
     "version": "0.8",
-	"hidden": true,
-	"supportersFile" : "https://raw.githubusercontent.com/pnrk/ips/main/Support.txt",
+    "hidden": true,
+    "supportersFile": "https://raw.githubusercontent.com/pnrk/ips/main/Support.txt",
     "news": [
         {
             "image": "6EZ0XueggsceECnsngpRCYTpSObdaovRy5JzUg7RGTAGHpYg16fuT5FT84QamyC6EiMRCVYSa/DsF93KwAZohlk6ManzMrIfMSrRLldxLGJ5wTSB5Vh2IASdVQor1AdQ",
